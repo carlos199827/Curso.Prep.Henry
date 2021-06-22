@@ -1,0 +1,16 @@
+Variables 
+Las variables guardan informacion ya sea numeros, letras, operaciones matematicas o etc.
+
+Strings
+Es una cadena de caracteres esta encerrado en comillas.
+
+Las Funciones
+Las funciones de JavaScript son bloques de código que puede llamar para realizar una tarea específica repetitivamente
+El return es un instrucción de Javascript que sale de la función actual y devuelve el valor de la misma.
+
+Declaraciones
+
+If es una condicional que mientra la condicion se cumpla hace lo pedido por el cliente
+
+Valores Booleanos
+Los balores booleanos es simple "true" es verdadero y "false" es falso.
