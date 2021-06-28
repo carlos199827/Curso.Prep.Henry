@@ -1,0 +1,7 @@
+for o para se ultiliza para repetir una o mas instrucciones las veces que queramos hacerlo
+
+&& compara dos expreciones si las dos son verdaderas la coomparacion es true pero si una es falsa y la otra verdadera la coomparacion es false lo mismo sin los dos son falso es false
+
+||  pasa lo mismo que el operador && solo con la diferencia de que el unico false es si las dos expreciones son falsas luego las otra opciones son true
+
+! es lo contraio a la exprecion
